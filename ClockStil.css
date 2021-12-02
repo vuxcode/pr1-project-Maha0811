@@ -25,16 +25,16 @@ body{
     transform: rotate(var (--rotate));
 }
 .clock.number.1{--rotation 30 deg))
-    clock.number.2 60 deg);
-    clock.number.3 90 deg);
-    clock.number.4 120 deg);
-    clock.number.5 150 deg);
-    clock.number.6  180 deg);{
-clock.number.7 210 deg);
-clock.number.8 240 deg);
-clock.number.9 270 deg);
-clock.number.10 300 deg);
-clock.number.11 330 deg);}
+    clock.number. 2 60 deg);
+    clock.number. 3 90 deg);
+    clock.number. 4 120 deg);
+    clock.number. 5 150 deg);
+    clock.number. 6 180 deg); {
+clock.number. 7 210 deg);
+clock.number. 8 240 deg);
+clock.number. 9 270 deg);
+clock.number. 10 300 deg);
+clock.number. 11 330 deg);}
 {
 
 Clock.hand; {
@@ -43,7 +43,7 @@ position: absolute;
 bottom 50%;
 left 50%;
 weight 10 px;
-backcolor: black
+<backcolor>: black
 transform:translateXe(-50%)rotation));
 rotate(var(--rotation));
 }
