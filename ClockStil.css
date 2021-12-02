@@ -4,7 +4,7 @@
 }
 
 body{
-    backgroud: liner-gradient(to right, hsl(200, ,100%, 50%), hsl    (175, 100%,50%));
+    backgroud: liner-gradient(to right, hsl(200, 100%, 50%), hsl    (175, 100%, 50%));
 }
 
 .clock {
@@ -22,9 +22,9 @@ body{
     height: 100;
     text-align: center;
     background-color: rosybrown;
-    transform: rotate(var (--rotate));
+    transform: rotate(var (--rotation));
 }
-.clock.number1{--rotation 30 deg;}
+.clock.number1{--rotation:30deg;}
     clock.number. 2 60 deg);
     clock.number. 3 90 deg);
     clock.number. 4 120 deg);
@@ -38,11 +38,11 @@ clock.number. 11 330 deg);}
 {
 
 Clock.hand; {
-rotatoion :0;
+rotatoion: 0;
 position: absolute;
-bottom 50%;
-left 50%;
-weight 10 px;
+bottom: 50%;
+left: 50%;
+weight: 10 px;
 <backcolor>: black
 transform:translateXe(-50%)rotation));
 rotate(var(--rotation));
