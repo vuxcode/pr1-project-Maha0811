@@ -35,5 +35,16 @@ clock.number 8 240 deg)
 clock.number 9 270 deg)
 clock.number 10 300 deg)
 clock.number 11 330 deg)
+{
+
+Clock.hand;
+rotatoion :0;
+position: absolute;
+bottom 50%;
+left 50%;
+weight 10 px;
+backcolor: black
+transform:translateXe(-50%)rotation));
+rotate(var(--rotation));
 
 }
