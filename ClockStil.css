@@ -24,7 +24,7 @@ body{
     background-color: rosybrown;
     transform: rotate(var (--rotate));
 }
-.clock.number.1{--rotation 30 deg))
+.clock.number1{--rotation 30 deg;}
     clock.number. 2 60 deg);
     clock.number. 3 90 deg);
     clock.number. 4 120 deg);
